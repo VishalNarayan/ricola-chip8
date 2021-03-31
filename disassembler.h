@@ -1,0 +1,1 @@
+void Disassemble(uint8_t *buffer, uint16_t pc);
